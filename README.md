@@ -16,9 +16,6 @@
 <img src='sql-1.png' />
 <img src='sql-2.png' />
 
-# Resume Job Desc.
-<img src='Resume-desc.png' />
-
 # Tests - JS
 <img src='tests-wr1.png' />
 <img src='test3-wr1.png' />
